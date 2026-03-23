@@ -1,4 +1,3 @@
-##Effect-of-interactions-on-elastic-cavitation
 Multiphysics-Mechanics-of-Materials-Group-at-UNH
 
 This repository contains the code and data accompanying the research paper:
