@@ -154,6 +154,5 @@ If you use this code in your research, please cite:
 
 ## Contact
 
-For questions about the code, please contact:
-**Mrityunjay Kothari** — mrityunjay.kothari@unh.edu
-Department of Mechanical Engineering, University of New Hampshire
+- **Mrityunjay Kothari** — mrityunjay.kothari@unh.edu  
+  Department of Mechanical Engineering, University of New Hampshire
