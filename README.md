@@ -123,7 +123,7 @@ The cavitation pressure p̄c for each d/R value is extracted from the `.mat` fil
 - **Element type**: Taylor-Hood (P2/P1) — quadratic displacement, linear pressure
 - **Solver**: Newton-Raphson with MUMPS direct linear solver
 - **Loading**: displacement-controlled at the outer boundary (equivalent to remote hydrostatic tension)
-- **Domain size**: 100R × 100R (verified to approximate infinite medium behavior)
+- **Domain size**: 100R × (d + 100R) (verified to approximate infinite medium behavior)
 - **Mesh**: spatially adaptive, refined near cavity surface (minimum element size R/100 at Finest quality)
 - **Simulation software**: [FEniCS](https://fenicsproject.org/) with mesh generation via [Gmsh](https://gmsh.info/)
 
