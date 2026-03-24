@@ -55,16 +55,6 @@ elastic-cavitation-interactions/
 | [NumPy](https://numpy.org/) | numerical array operations |
 | [SciPy](https://scipy.org/) | nonlinear solve for mesh grading + .mat file output |
 
-### Installation (recommended: conda)
-
-```bash
-conda create -n fenics-env -c conda-forge fenics gmsh python=3.10
-conda activate fenics-env
-pip install meshio scipy numpy
-```
-
----
-
 ## Usage
 
 ### Running a single simulation
