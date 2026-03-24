@@ -143,7 +143,7 @@ The cavitation pressure p̄c for each d/R value is extracted from the `.mat` fil
 
 ## Acknowledgements
 
-The authors thank **S. Chockalingam** for providing the FEniCS code used in this research. The weak-form setup in FEniCS parallels the implementation in:
+Many thanks to **S. Chockalingam** for providing the FEniCS code for spherical growth, which served as the foundation for this research. The weak-form setup in FEniCS parallels the implementation in:
 
 > C. Senthilnathan, *Understanding the mechanics of growth: A large deformation theory for coupled swelling-growth and morphogenesis of soft biological systems*, Ph.D. thesis, Massachusetts Institute of Technology (2024).
 
