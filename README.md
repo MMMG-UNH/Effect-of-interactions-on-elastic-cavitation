@@ -1,6 +1,6 @@
 # Elastic Cavitation Interactions
 
-FEniCS codes for the paper:
+Finite element simulation code for the paper:
 
 > **"The effect of interactions on elastic cavitation"**
 > Ali Saeedi, S. Chockalingam, Mrityunjay Kothari
