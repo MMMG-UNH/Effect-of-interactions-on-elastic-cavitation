@@ -105,8 +105,6 @@ pip install meshio scipy numpy
 
 This loops over all 27 d/R values used in the paper and runs each through the full pipeline. By default it uses `fixed` BC (cavity-interface problem). To run the cavity-cavity problem instead, change `fixed` to `symm` in `batch_run.sh`.
 
-> ⚠️ Running the full batch at `Finest` mesh quality with 15000 steps is computationally intensive. Consider using `Fine` or `Medium` quality for exploratory runs.
-
 ---
 
 ## Output
